@@ -8,6 +8,7 @@ You can then run this script from the command line by specifying the python file
 python my_script.py my_python_file.py my_log_file.log debug
 
 And the script will execute the specified python file, log the output to the specified log file using the specified logging type.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Formal Documentation
